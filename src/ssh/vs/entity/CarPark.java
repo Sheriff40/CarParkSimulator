@@ -6,8 +6,7 @@ public class CarPark {
     private int totalSpace = 0;
     private int usedSpace = 0;
     private double totalAmount = 0;
-    private Vechile car;
-    private Vechile truck;
+
     
     public int getTotalSpace() {
         return totalSpace;
